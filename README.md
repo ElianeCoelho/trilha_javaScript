@@ -60,15 +60,15 @@ Poderia dizer por quê?
 
 ## Exercícios de fixação
 
-let x = 5;
-let y = 2;
-let z = x + y;
-let z = x - y;
-let z = x * y;
-let z = x / y;
-let z = x ** y;
-let z = x % y;
-let z = x ** y;
+    let x = 5;
+    let y = 2;
+    let z = x + y;
+    let z = x - y;
+    let z = x * y;
+    let z = x / y;
+    let z = x ** y;
+    let z = x % y;
+    let z = x ** y;
 
 
  
